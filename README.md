@@ -1,16 +1,3 @@
 # scholar_chat
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Connect effortlessly with friends and engage in lively conversations with our Chat App. Create an account to seamlessly join conversations, experience lightning-fast responses, and enjoy a user-friendly interface for a delightful chatting experience.
